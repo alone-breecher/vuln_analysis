@@ -31,3 +31,15 @@ $ ./clickjacking.sh URL
 
 Eg : ./clickjacking.sh https://example.com
 ```
+
+### To check XSS vulnarability
+
+( cat XSS-README.md ) for analysing how to use 
+
+usage ( python3 xsstrike.py -u (URL)
+
+CREDIT "s0md3v"
+...............................
+
+
+   
