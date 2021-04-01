@@ -16,7 +16,7 @@ $ ./install.sh
 ```
 
 
-### Usage
+### To check sub domains of a domain and cname of of subdomains To perform sub domain "takeover" attack.
 
 ```sh
 $ ./sub_domain-collector.sh -h
